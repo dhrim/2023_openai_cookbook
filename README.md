@@ -46,6 +46,7 @@ ChatGPT의 기능과 이외의 기능을 사용하는 방법을 공부합니다.
 - GPT 구조 : [from_DNN_to_GPT.pptx](from_DNN_to_GPT.pptx)
 - 실습 준비 : [OpenAI_계정만들기_키만들기_결제정보_입력.pdf](OpenAI_계정만들기_키만들기_결제정보_입력.pdf)
 - [OpenAI_API_사용_기초.pdf](OpenAI_API_사용_기초.pdf)
+- [회자별_실습내용.md](회자별_실습내용.md)
 
 <br>
 
