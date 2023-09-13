@@ -275,7 +275,9 @@ HAVING
 }
 ```
 
-choices > logprobs > token_logprobs의 값을 가지고 이값들이 크면 좋은 SQL이라는데... 뭔지 모르겠다.
+choices > logprobs > token_logprobs의 값을 가지고 이값들이 크면 좋은 SQL이라는데... 
+
+logprobs에 대한 설명 : http://gptprompts.wikidot.com/intro:logprobs
 
 
 
