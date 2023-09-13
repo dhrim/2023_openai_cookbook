@@ -279,6 +279,8 @@ choices > logprobs > token_logprobs의 값을 가지고 이값들이 크면 좋�
 
 logprobs에 대한 설명 : http://gptprompts.wikidot.com/intro:logprobs
 
+또다른 설명 : https://blog.scottlogic.com/2021/09/01/a-primer-on-the-openai-api-2.html
+
 
 
 
