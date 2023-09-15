@@ -2,6 +2,7 @@
 ChatGPT의 모델을 프로그래밍 적인 방법으로 호출할 수 있는 OpenAI API의 사용 호출예 사이트 OpenAI CookBook의 예를 가지고
 ChatGPT의 기능과 이외의 기능을 사용하는 방법을 공부합니다.
 
+![Poster](./poster.png)  
 <br>
 
 # 커리 큘럼
