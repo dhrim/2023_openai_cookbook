@@ -29,7 +29,7 @@ print(result)
 
 <br>
 
-## def result = generate_sql()
+## def generate_sql()
 ```
 def generate_sql(
     prompt_template: str,
